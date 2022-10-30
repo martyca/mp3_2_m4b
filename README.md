@@ -1,4 +1,4 @@
-![Audiobook](/assets/image.png)
+![Audiobook](https://github.com/martyca/mp3_2_m4b/blob/main/assets/image.png?raw=true)
 
 # mp3_2_m4b
 docker image that take all mp3 files from the current folder, concats them and converts the result to m4b using ffmpeg.
